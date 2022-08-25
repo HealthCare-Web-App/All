@@ -11,15 +11,15 @@
 <br><br>
 
 # 사용 기술
-- ### frontend : React,
-- ### backend : SpringBoot, JPA
-- ### 배포 : docker, aws ec2
+- #### frontend : React,
+- #### backend : SpringBoot, JPA
+- #### 배포 : docker, aws ec2
 (각 파트의 자세한 기술스택을 알고 싶다면 fe, be 리포지토리를 방문해주시기 바랍니다.)
 <br><br>
 
 # 배포 및 실행
-### AWS ec2에 docker로 무중단 배포.<br>
-### http://3.34.217.132:8080/ 로 접속가능합니다.
+#### AWS ec2에 docker로 무중단 배포.<br>
+#### http://3.34.217.132:8080/ 로 접속가능합니다.
 <br>
 위의 홈페이지로 접속 가능하나, ec2가 무료버전(t2.micro) 이므로 성능이 매우약해 서버가 다운될 가능성이 있습니다. <br>
 따라서 접속이 불가할 경우 다음과 같이 실행하면 됩니다. <br><br>
