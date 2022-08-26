@@ -25,9 +25,17 @@
 위의 홈페이지로 접속 가능하나, ec2가 무료버전(t2.micro) 이므로 성능이 매우약해 서버가 다운될 가능성이 있습니다. <br>
 따라서 접속이 불가한 최악의 경우 경우 다음과 같이 실행해주시기 바랍니다. <br><br>
 
-#### 1. 프로젝트를 받은 후 gradle의 bootJar로 빌드 (꼭 bootJar 일 필요는 없음!) -> jar파일 생성. <br>
-#### 2. java -jar (jar파일이름) 을 하면 프로그램이 실행됩니다. 이때 java 버전은 11로 해야합니다.<br>
-#### 4. localhost:8080 으로 접속하면 끝입니다. <br>
+### docker로 실행
+#### 컴퓨터에 Docker Desktop 이 설치되어 있어야 합니다. 도커 데스크탑을 실행해줍니다.
+#### 최초 실행 시
+: 터미널을 열어 다음 명령어를 복붙합니다.
+> docker run -it --name app -p 8080:8080 matt1235/healthcare_web:0.0.1 bash
+<br>
+실행되면, localhost:8080으로 접속하면 끝입니다. <br>
+
+#### 중단 후 재실행시
+> docker start -ai matt1235/healthcare_web:0.0.1 
+<br>
 <br> 
 
 # 기능 시연
