@@ -39,26 +39,12 @@
 <br> 
 
 # 기능 시연
-### 웹 어플리케이션 실행한 모습입니다.
-#### 1. 게시판
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/56336436/186668646-2b77995b-19b8-4379-97e2-be589fdb3da2.gif)
-<br><br> 
-
-#### 2. 댓글 작성
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56336436/186670371-affe95b2-3282-4f68-b142-2e1a36b9406a.gif)
+#### [1. 운동로그 작성](https://user-images.githubusercontent.com/56336436/187936410-7831b502-6b26-49f6-89b1-c0982f223036.gif)
 <br><br>
-
-#### 3. 게시글 작성
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/56336436/186670816-fb5ed5f4-069a-40a6-937f-9909d4341eab.gif)
+#### [2. 회원가입 예시](https://user-images.githubusercontent.com/56336436/186671289-a018f5a0-25d1-453f-8463-1f2423bf3cef.gif)
 <br><br>
-
-#### 4. 회원가입 예시
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/56336436/186671289-a018f5a0-25d1-453f-8463-1f2423bf3cef.gif)
+#### [3. 로그인](https://user-images.githubusercontent.com/56336436/186671645-7e9138f1-3a68-4503-9430-49442c156733.gif)
 <br><br>
-
-#### 5. 로그인
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/56336436/186671645-7e9138f1-3a68-4503-9430-49442c156733.gif)
+#### [4. 게시글 작성](https://user-images.githubusercontent.com/56336436/186670816-fb5ed5f4-069a-40a6-937f-9909d4341eab.gif)
 <br><br>
-
-### 6. 운동로그 작성
-[aaa](https://user-images.githubusercontent.com/56336436/187933454-bf7b5e3d-3631-4242-8178-5a82c545a15e.gif)
+#### [5. 댓글 작성](https://user-images.githubusercontent.com/56336436/186670371-affe95b2-3282-4f68-b142-2e1a36b9406a.gif)
