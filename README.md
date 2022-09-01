@@ -39,12 +39,14 @@
 <br> 
 
 # 기능 시연
-#### [1. 운동로그 작성](https://user-images.githubusercontent.com/56336436/187936410-7831b502-6b26-49f6-89b1-c0982f223036.gif)
-<br><br>
-#### [2. 회원가입 예시](https://user-images.githubusercontent.com/56336436/186671289-a018f5a0-25d1-453f-8463-1f2423bf3cef.gif)
-<br><br>
-#### [3. 로그인](https://user-images.githubusercontent.com/56336436/186671645-7e9138f1-3a68-4503-9430-49442c156733.gif)
-<br><br>
-#### [4. 게시글 작성](https://user-images.githubusercontent.com/56336436/186670816-fb5ed5f4-069a-40a6-937f-9909d4341eab.gif)
-<br><br>
-#### [5. 댓글 작성](https://user-images.githubusercontent.com/56336436/186670371-affe95b2-3282-4f68-b142-2e1a36b9406a.gif)
+#### [1. 운동로그 작성](https://user-images.githubusercontent.com/56336436/187936410-7831b502-6b26-49f6-89b1-c0982f223036.gif)<br>
+
+#### [2. 회원가입 예시](https://user-images.githubusercontent.com/56336436/187938807-2855a86b-589c-43b2-a394-c63ebc6098fa.gif)<br>
+
+#### [3. 로그인](https://user-images.githubusercontent.com/56336436/187938926-6689c5d5-c617-4b7d-8869-b8a56a82b7a4.gif)<br>
+
+#### [4. 게시글 작성](https://user-images.githubusercontent.com/56336436/187939227-d7a1c376-6765-425e-98a7-f646d737e049.gif)<br>
+
+#### [5. 댓글 작성](https://user-images.githubusercontent.com/56336436/187939322-8a7929a8-b760-444b-aeb4-b4f917e229aa.gif)<br>
+
+#### [6. 게시글 삭제](https://user-images.githubusercontent.com/56336436/187939560-99d1bdad-e309-43a8-8a8e-960f301f02b9.gif)
