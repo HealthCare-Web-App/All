@@ -61,5 +61,5 @@
 <br><br>
 
 ### 6. 운동로그 작성
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/56336436/186671852-1447f060-ee50-44dd-baee-7ff7fa70dba7.gif)
+[aa](![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/56336436/186671852-1447f060-ee50-44dd-baee-7ff7fa70dba7.gif))
 
