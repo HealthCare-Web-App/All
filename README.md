@@ -1,6 +1,5 @@
 # Health Care Web-APP <br>
 #### 사용자가 자신의 운동 일지를 기록하는 웹 어플리케이션입니다.
-#### 게시판 컨텐츠가 있어 사용자 간 의사소통이 가능합니다. 
 
 <br>
 
@@ -39,27 +38,14 @@
 <br> 
 
 # 기능 시연
-### 웹 어플리케이션 실행한 모습입니다.
-#### 1. 게시판
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/56336436/186668646-2b77995b-19b8-4379-97e2-be589fdb3da2.gif)
-<br><br> 
+#### [1. 운동로그 작성](https://user-images.githubusercontent.com/56336436/187936410-7831b502-6b26-49f6-89b1-c0982f223036.gif)<br>
 
-#### 2. 댓글 작성
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56336436/186670371-affe95b2-3282-4f68-b142-2e1a36b9406a.gif)
-<br><br>
+#### [2. 회원가입 예시](https://user-images.githubusercontent.com/56336436/187938807-2855a86b-589c-43b2-a394-c63ebc6098fa.gif)<br>
 
-#### 3. 게시글 작성
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/56336436/186670816-fb5ed5f4-069a-40a6-937f-9909d4341eab.gif)
-<br><br>
+#### [3. 로그인](https://user-images.githubusercontent.com/56336436/187938926-6689c5d5-c617-4b7d-8869-b8a56a82b7a4.gif)<br>
 
-#### 4. 회원가입 예시
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/56336436/186671289-a018f5a0-25d1-453f-8463-1f2423bf3cef.gif)
-<br><br>
+#### [4. 게시글 작성](https://user-images.githubusercontent.com/56336436/187939227-d7a1c376-6765-425e-98a7-f646d737e049.gif)<br>
 
-#### 5. 로그인
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/56336436/186671645-7e9138f1-3a68-4503-9430-49442c156733.gif)
-<br><br>
+#### [5. 댓글 작성](https://user-images.githubusercontent.com/56336436/187939322-8a7929a8-b760-444b-aeb4-b4f917e229aa.gif)<br>
 
-### 6. 운동로그 작성
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/56336436/186671852-1447f060-ee50-44dd-baee-7ff7fa70dba7.gif)
-
+#### [6. 게시글 삭제](https://user-images.githubusercontent.com/56336436/187939560-99d1bdad-e309-43a8-8a8e-960f301f02b9.gif)
